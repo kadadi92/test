@@ -1,1 +1,1 @@
-Sitemap: http://novellatranslation.com/sitemap.xml
+Sitemap: /https://kadadi92.github.io/test/sitemap.xml
